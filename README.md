@@ -1,16 +1,8 @@
-# pavlok_test
+# Flutter Engineer Test
 
-A new Flutter project.
+## Some pictures of the App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![290231803_595945135287297_4480577425033607125_n](https://user-images.githubusercontent.com/40029149/177212226-6353888a-36bc-400e-bcef-fcc9a9d50f4f.png)
+![290783720_5284702998276639_7085353468244936529_n](https://user-images.githubusercontent.com/40029149/177212306-68defc99-d993-4b7a-8bee-47dcf65e97b6.png)
+![289921566_1032019137451496_2852100852943128421_n](https://user-images.githubusercontent.com/40029149/177212411-624ea0a2-2e9f-4788-a9d1-866cba43ef4b.png)
