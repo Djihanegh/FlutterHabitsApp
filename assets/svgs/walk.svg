@@ -1,0 +1,56 @@
+<svg width="61" height="56" viewBox="0 0 61 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter0_bdii_2_509" x="0" y="7.54306" width="47.1783" height="47.6289" filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feGaussianBlur in="BackgroundImage" stdDeviation="3.5" />
+            <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2_509" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha" />
+            <feOffset dy="3" />
+            <feGaussianBlur stdDeviation="7" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0" />
+            <feBlend mode="normal" in2="effect1_backgroundBlur_2_509" result="effect2_dropShadow_2_509" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_2_509" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha" />
+            <feOffset dx="-0.3" dy="-0.3" />
+            <feGaussianBlur stdDeviation="0.15" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0.513726 0 0 0 0 0.219608 0 0 0 0 0.92549 0 0 0 0.15 0" />
+            <feBlend mode="normal" in2="shape" result="effect3_innerShadow_2_509" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha" />
+            <feOffset dx="0.3" dy="0.3" />
+            <feGaussianBlur stdDeviation="0.15" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.65 0" />
+            <feBlend mode="normal" in2="effect3_innerShadow_2_509" result="effect4_innerShadow_2_509" />
+        </filter>
+        <linearGradient id="paint0_linear_2_509" x1="48.645" y1="13.703" x2="22.4409" y2="42.4171"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0.393651" stop-color="#FFCA46" />
+            <stop offset="1" stop-color="#FF9B06" />
+        </linearGradient>
+    </defs>
+    <rect x="5" width="56" height="56" rx="16" fill="#F8F3FF" />
+    <path
+        d="M31.5274 12.1222L22.7305 21.0924C21.0583 22.7975 21.0583 25.5405 22.7305 27.2456L36.6893 41.5536C37.9615 42.8509 39.6337 43.6664 41.4512 43.8517L49.2304 44C51.6295 43.9259 53.4471 39.7373 50.3936 37.365C43.3415 31.9531 42.7962 32.2126 43.4505 25.3552C44.1049 18.4977 42.3964 17.8305 42.3964 17.8305C42.3964 17.8305 37.4526 19.4985 35.1262 17.1262C32.7997 14.7539 34.7626 11.3067 31.5274 12.1222Z"
+        fill="url(#paint0_linear_2_509)" />
+    <path d="M23.9662 19.8322L39.2336 38.0323C40.4695 39.515 42.2871 40.3675 44.2137 40.3675H51.9928" stroke="#FFCB47"
+        stroke-miterlimit="10" />
+    <path d="M43.5959 22.093H38.9067" stroke="#FFB529" stroke-miterlimit="10" stroke-linecap="round" />
+    <path d="M43.552 25.5775H38.9068" stroke="#FFB529" stroke-miterlimit="10" stroke-linecap="round" />
+    <path d="M43.2324 29.0618H38.9066" stroke="#FFB529" stroke-miterlimit="10" stroke-linecap="round" />
+    <path d="M25.0933 40.7752H32.3999" stroke="#FFCB47" stroke-miterlimit="10" />
+    <path d="M21.458 43.2956H35.0896" stroke="#FFCB47" stroke-miterlimit="10" />
+    <g filter="url(#filter0_bdii_2_509)">
+        <path
+            d="M23.5892 38.1719C28.8851 38.1719 33.1783 33.7779 33.1783 28.3575C33.1783 22.9371 28.8851 18.5431 23.5892 18.5431C18.2932 18.5431 14 22.9371 14 28.3575C14 33.7779 18.2932 38.1719 23.5892 38.1719Z"
+            fill="#8338EC" fill-opacity="0.15" shape-rendering="crispEdges" />
+    </g>
+    <path d="M19.9933 27.8529L22.5791 30.4994L27.6685 25.2904" stroke="#8338EC" stroke-miterlimit="10"
+        stroke-linecap="round" />
+
+</svg>

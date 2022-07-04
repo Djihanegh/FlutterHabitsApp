@@ -1,0 +1,49 @@
+<svg width="59" height="56" viewBox="0 0 59 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter0_bdii_2_482" x="11.4242" y="5" width="47.5757" height="47.8261" filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feGaussianBlur in="BackgroundImage" stdDeviation="3.5" />
+            <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2_482" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha" />
+            <feOffset dy="3" />
+            <feGaussianBlur stdDeviation="7" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0" />
+            <feBlend mode="normal" in2="effect1_backgroundBlur_2_482" result="effect2_dropShadow_2_482" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_2_482" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha" />
+            <feOffset dx="-0.3" dy="-0.3" />
+            <feGaussianBlur stdDeviation="0.15" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0.513726 0 0 0 0 0.219608 0 0 0 0 0.92549 0 0 0 0.15 0" />
+            <feBlend mode="normal" in2="shape" result="effect3_innerShadow_2_482" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha" />
+            <feOffset dx="0.3" dy="0.3" />
+            <feGaussianBlur stdDeviation="0.15" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.65 0" />
+            <feBlend mode="normal" in2="effect3_innerShadow_2_482" result="effect4_innerShadow_2_482" />
+        </filter>
+        <linearGradient id="paint0_linear_2_482" x1="13.6047" y1="17.2772" x2="33.1844" y2="39.4862"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0.393651" stop-color="#FFCA46" />
+            <stop offset="1" stop-color="#FF9B06" />
+        </linearGradient>
+    </defs>
+    <rect width="56" height="56" rx="16" fill="#F8F3FF" />
+    <path
+        d="M34.6962 33.9686V37.5816C34.6976 37.917 34.6296 38.249 34.4967 38.5563C34.3637 38.8636 34.1688 39.1395 33.9242 39.3662C33.6797 39.593 33.3911 39.7656 33.0767 39.8731C32.7624 39.9805 32.4293 40.0204 32.0988 39.9902C28.4324 39.5875 24.9106 38.3212 21.8164 36.293C18.9376 34.4439 16.4968 31.9769 14.6675 29.067C12.6539 25.9252 11.4008 22.3481 11.0097 18.6255C10.9799 18.2925 11.0191 17.9569 11.1246 17.64C11.2302 17.3231 11.4 17.0318 11.623 16.7849C11.846 16.5379 12.1175 16.3406 12.4201 16.2055C12.7227 16.0704 13.0499 16.0004 13.3807 16.0001H16.9551C17.5334 15.9944 18.0939 16.2013 18.5324 16.5824C18.9708 16.9636 19.2572 17.4928 19.3381 18.0716C19.489 19.2278 19.7688 20.363 20.1721 21.4557C20.3324 21.8868 20.3671 22.3552 20.2721 22.8056C20.1771 23.256 19.9563 23.6694 19.636 23.9968L18.1228 25.5263C19.8189 28.5414 22.2887 31.0378 25.2717 32.7522L26.7848 31.2228C27.1088 30.899 27.5178 30.6758 27.9633 30.5798C28.4089 30.4837 28.8724 30.5188 29.2988 30.6808C30.3798 31.0885 31.503 31.3713 32.6469 31.5238C33.2257 31.6064 33.7543 31.901 34.1321 32.3518C34.51 32.8026 34.7107 33.378 34.6962 33.9686Z"
+        fill="url(#paint0_linear_2_482)" />
+    <g filter="url(#filter0_bdii_2_482)">
+        <ellipse cx="35.2121" cy="25.913" rx="9.78788" ry="9.91304" fill="#8338EC" fill-opacity="0.15"
+            shape-rendering="crispEdges" />
+    </g>
+    <path
+        d="M31.2502 29.2139C31.0562 29.4104 31.0582 29.727 31.2547 29.921C31.4512 30.115 31.7678 30.113 31.9618 29.9165L31.2502 29.2139ZM39.3181 22.2577C39.3164 21.9816 39.0911 21.7591 38.815 21.7609L34.3151 21.7895C34.0389 21.7912 33.8165 22.0165 33.8182 22.2926C33.82 22.5688 34.0453 22.7912 34.3214 22.7894L38.3213 22.764L38.3467 26.7639C38.3485 27.0401 38.5738 27.2625 38.8499 27.2608C39.126 27.259 39.3485 27.0337 39.3467 26.7576L39.3181 22.2577ZM31.9618 29.9165L39.1739 22.6122L38.4623 21.9096L31.2502 29.2139L31.9618 29.9165Z"
+        fill="#8338EC" />
+
+</svg>
