@@ -24,10 +24,10 @@ class _ReminderCardState extends State<ReminderCard> {
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
       onTap: () async {
         showBottomSheet(
-            context: context, builder: (_) => _ReminderBottomSheet());
+            context: context, builder: (_) => const _ReminderBottomSheet());
       },
       child: Row(
-        children: [
+        children: const [
           Text(
             "Remind me before bed time",
             style: TextStyle(fontSize: 14, fontWeight: FontWeight.w500),
@@ -68,14 +68,14 @@ class __ReminderBottomSheetState extends State<_ReminderBottomSheet> {
               borderRadius: BorderRadius.circular(8),
             ),
           ),
-          SizedBox(height: 30),
-          Text("Reminder",
+          const SizedBox(height: 30),
+          const Text("Reminder",
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.w600,
                 color: AppColors.kPrimaryText,
               )),
-          SizedBox(height: 14),
+          const SizedBox(height: 14),
           Flexible(
             child: Stack(
               children: [
