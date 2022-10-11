@@ -1,6 +1,6 @@
-# Flutter Engineer Test
+# Habits Flutter App
 
-## Some pictures of the App
+## :camera: Screenshots :
 
 
 ![290231803_595945135287297_4480577425033607125_n](https://user-images.githubusercontent.com/40029149/177212226-6353888a-36bc-400e-bcef-fcc9a9d50f4f.png)
