@@ -3,15 +3,11 @@ import 'package:flutter/material.dart';
 import 'package:pavlok_test/utils/color.dart';
 
 import '../../../utils/app_style.dart';
-import '../../../utils/assets.dart';
 import '../../../utils/pavlok_icons.dart';
 import '../../../utils/size_config.dart';
-import '../../bad_habit/bad_habit_screen.dart';
-import '../../components/custom_button.dart';
 import '../../components/custom_tab_indicator.dart';
 import '../../components/progress_widget.dart';
-import '../../good_habit/good_habit_screen.dart';
-import '../../sleep_onboarding/sleep_onboarding_screen.dart';
+import '../../habit/habit_screen.dart';
 
 class Body extends StatefulWidget {
   const Body({Key? key}) : super(key: key);
@@ -167,8 +163,8 @@ class _BodyState extends State<Body> with SingleTickerProviderStateMixin {
           controller: tabController,
           physics: const BouncingScrollPhysics(),
           children: const [
-            GoodHabitScreen(),
-            BadHabitScreen(),
+            HabitScreen(key:Key('good')),
+            HabitScreen(key:Key('bad')),
           ],
         ),
       ),
