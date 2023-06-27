@@ -1,8 +1,19 @@
-# Habits Flutter App
+# Flutter Habits App
 
-## :camera: Screenshots :
+Flutter habits app using Custom Painter.
 
+### Show some ❤️ and star the repo to support the project.
+-------------
 
-![290231803_595945135287297_4480577425033607125_n](https://user-images.githubusercontent.com/40029149/177212226-6353888a-36bc-400e-bcef-fcc9a9d50f4f.png)
-![290783720_5284702998276639_7085353468244936529_n](https://user-images.githubusercontent.com/40029149/177212306-68defc99-d993-4b7a-8bee-47dcf65e97b6.png)
-![289921566_1032019137451496_2852100852943128421_n](https://user-images.githubusercontent.com/40029149/177212411-624ea0a2-2e9f-4788-a9d1-866cba43ef4b.png)
+###  SCREENSHOTS 📷
+-------------
+
+![Component 3](https://github.com/Djihanegh/FlutterHabitsApp/assets/40029149/f76a0ab0-5a3d-4fae-a32c-652c7d93f5f9)
+
+## How to Contribute
+
+1. Fork the the project
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Make required changes and commit (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create new Pull Request
