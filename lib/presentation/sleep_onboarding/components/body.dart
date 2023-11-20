@@ -1,22 +1,16 @@
-import 'dart:developer';
 import 'dart:typed_data';
 
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:flutter/services.dart';
-import 'package:pavlok_test/presentation/components/clock_widget.dart';
-import 'package:pavlok_test/presentation/sleep_onboarding/components/reminder_card.dart';
-import 'package:pavlok_test/presentation/sleep_onboarding/components/text_widget.dart';
-import 'package:pavlok_test/utils/assets.dart';
-import 'package:pavlok_test/utils/color.dart';
+import 'package:pavlok_test/presentation/components/components_export.dart';
+import 'package:pavlok_test/utils/utils_export.dart';
+import 'package:pavlok_test/presentation/sleep_onboarding/export_sleep.dart';
+import '../../../data/fake_data.dart';
 
 import 'dart:ui' as ui;
 
-import '../../../data/fake_data.dart';
-import '../../../utils/app_style.dart';
-import '../../../utils/size_config.dart';
-import '../../components/custom_floating_button.dart';
 
 class Body extends StatefulWidget {
   const Body({Key? key}) : super(key: key);

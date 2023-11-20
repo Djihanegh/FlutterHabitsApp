@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:pavlok_test/presentation/components/habit_widget.dart';
-
 import '../../../data/fake_data.dart';
 
 class Body extends StatefulWidget {

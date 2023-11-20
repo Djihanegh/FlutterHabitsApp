@@ -1,7 +1,6 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
-
-import '../../../utils/app_style.dart';
+import '../../../utils/utils_export.dart';
 
 class TextWidget extends StatelessWidget {
   const TextWidget({Key? key}) : super(key: key);

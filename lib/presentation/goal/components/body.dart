@@ -1,12 +1,7 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
-import 'package:pavlok_test/utils/color.dart';
-
-import '../../../utils/app_style.dart';
-import '../../../utils/pavlok_icons.dart';
-import '../../../utils/size_config.dart';
-import '../../components/custom_tab_indicator.dart';
-import '../../components/progress_widget.dart';
+import '../../../utils/utils_export.dart';
+import '../../components/components_export.dart';
 import '../../habit/habit_screen.dart';
 
 class Body extends StatefulWidget {

@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        backgroundColor: AppColors.kbackgroundColor,
+        scaffoldBackgroundColor: AppColors.kbackgroundColor,
         fontFamily: "Manrope",
         pageTransitionsTheme: const PageTransitionsTheme(builders: {
           TargetPlatform.android: CupertinoPageTransitionsBuilder(),

@@ -1,10 +1,8 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
-import 'package:pavlok_test/utils/app_style.dart';
-import 'package:pavlok_test/utils/color.dart';
-import 'package:pavlok_test/utils/size_config.dart';
+import 'package:pavlok_test/utils/utils_export.dart';
+import '../sleep_onboarding/components/components_export.dart';
 import 'dart:ui' as ui;
-import '../sleep_onboarding/components/clock/double_circular_slider.dart';
 
 class ClockWidget extends StatefulWidget {
   final ui.Image nightImage;

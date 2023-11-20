@@ -1,8 +1,6 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
-import 'package:pavlok_test/utils/color.dart';
-
-import '../../utils/app_style.dart';
+import 'package:pavlok_test/utils/utils_export.dart';
 
 class ProgressWidget extends StatelessWidget {
   const ProgressWidget({Key? key, required this.total, required this.actual})

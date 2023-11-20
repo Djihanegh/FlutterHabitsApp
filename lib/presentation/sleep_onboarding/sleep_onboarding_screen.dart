@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pavlok_test/utils/color.dart';
-import 'components/body.dart';
+import 'export_sleep.dart';
 
 class SleepOnBoardingScreen extends StatelessWidget {
   const SleepOnBoardingScreen({Key? key}) : super(key: key);

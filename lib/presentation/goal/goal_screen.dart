@@ -1,14 +1,9 @@
-import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
-import 'package:pavlok_test/utils/assets.dart';
-import 'package:pavlok_test/utils/color.dart';
-import 'package:pavlok_test/utils/navigation.dart';
+import 'package:pavlok_test/utils/utils_export.dart';
 
-import '../../utils/app_style.dart';
-import '../../utils/size_config.dart';
-import '../components/custom_floating_button.dart';
-import '../sleep_onboarding/sleep_onboarding_screen.dart';
-import 'components/body.dart';
+import '../components/components_export.dart';
+import '../sleep_onboarding/export_sleep.dart';
+import 'components/body.dart' as goal_body;
 
 class GoalScreen extends StatelessWidget {
   const GoalScreen({Key? key}) : super(key: key);
@@ -20,7 +15,7 @@ class GoalScreen extends StatelessWidget {
     return DefaultTabController(
         length: 2,
         child: Scaffold(
-          body: const Body(),
+          body: const goal_body.Body(),
           floatingActionButton: CustomFloatingButton(
             onTap: () {
               navigateToPage(const SleepOnBoardingScreen(), context);

@@ -1,11 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:pavlok_test/utils/size_config.dart';
-
-import '../../../utils/color.dart';
-import '../../components/bottom_sheet.dart';
-import '../../components/custom_card.dart';
-import '../../components/custom_floating_button.dart';
+import '../../../utils/utils_export.dart';
+import '../../components/components_export.dart';
 
 class ReminderCard extends StatefulWidget {
   const ReminderCard({
