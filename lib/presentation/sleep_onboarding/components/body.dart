@@ -10,15 +10,12 @@ import 'package:pavlok_test/presentation/sleep_onboarding/components/reminder_ca
 import 'package:pavlok_test/presentation/sleep_onboarding/components/text_widget.dart';
 import 'package:pavlok_test/utils/assets.dart';
 import 'package:pavlok_test/utils/color.dart';
-import 'dart:async';
 
 import 'dart:ui' as ui;
 
 import '../../../data/fake_data.dart';
 import '../../../utils/app_style.dart';
 import '../../../utils/size_config.dart';
-import '../../components/bottom_sheet.dart';
-import '../../components/custom_button.dart';
 import '../../components/custom_floating_button.dart';
 
 class Body extends StatefulWidget {

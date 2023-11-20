@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:pavlok_test/utils/color.dart';
-
-import '../components/custom_floating_button.dart';
 import 'components/body.dart';
 
 class SleepOnBoardingScreen extends StatelessWidget {
